@@ -6,3 +6,15 @@
 i {
     color: #000;
 }
+
+section {
+    margin-bottom: 2rem;
+}
+
+.card h3 {
+    font-size: 1.2em;
+}
+
+.card {
+    text-align: center;
+}
